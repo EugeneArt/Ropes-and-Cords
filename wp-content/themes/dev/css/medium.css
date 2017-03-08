@@ -1,0 +1,16 @@
+@media (min-width: 992px) {
+    header {
+        height: 230px;
+        background: url(../../dev/images/header.png) no-repeat;
+        background-size: 100%;
+        background-position: 100% -120px;
+    }
+
+    .header-contacts {
+        font-size: 1.2rem;
+    }
+    .responsive-menu{
+        top: 210px;
+        font-size: 1.8rem;
+    }
+}

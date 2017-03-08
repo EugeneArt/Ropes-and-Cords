@@ -1,0 +1,57 @@
+
+@media (min-width: 768px) {
+    header {
+        height: 220px;
+        background: url(../../dev/images/header.png) no-repeat;
+        background-size: 100%;
+        background-position: 100% -70px;
+    }
+    .header-title {
+        top: 120px;
+        left: 20px;
+    }
+    .header-contacts {
+        display: block;
+        float: right;
+        top: 80px;
+        right: 15px;
+        color: #c5904d;
+    }
+    .header-contacts p{
+        margin: 10px;
+    }
+    .header-contacts span{
+        color: #191717;
+    }
+
+    .menu-btn {
+        display: none;
+    }
+    .responsive-menu{
+        display: block;
+        position: relative;
+        top: 210px;
+        float: right;
+        font-size: 1.5rem;
+        z-index: 2;
+    }
+    .menu-item {
+        display: inline-block;
+        padding: 0;
+        padding-right: 20px;
+        background: none;
+        border: none;
+    }
+    .menu-item a {
+        padding: 0;
+        background: none;
+        border: none;
+    }
+    .menu-item a:hover {
+        padding: 0;
+        background: none;
+        color: #c5904d;
+        border-bottom: 1px dotted;
+    }
+
+}
