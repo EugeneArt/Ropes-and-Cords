@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8725e6c7-7d02-458a-b849-8dcb0fb7718d" name="Default" comment="" />
+    <list default="true" id="8725e6c7-7d02-458a-b849-8dcb0fb7718d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/dev/.idea/workspace.xml" afterPath="$PROJECT_DIR$/wp-content/themes/dev/.idea/workspace.xml" />
+    </list>
     <ignored path="wordpress.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -26,41 +28,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-              <folding>
-                <marker date="1488013403000" expanded="true" signature="283:3685" ph="..." />
-                <marker date="1488013403000" expanded="true" signature="308:3677" ph="..." />
-                <marker date="1488013403000" expanded="true" signature="321:797" ph="..." />
-                <marker date="1488013403000" expanded="true" signature="363:467" ph="..." />
-                <marker date="1488013403000" expanded="true" signature="512:783" ph="..." />
-                <marker date="1488013403000" expanded="true" signature="808:3354" ph="..." />
-                <marker date="1488013403000" expanded="true" signature="822:1192" ph="..." />
-                <marker date="1488013403000" expanded="true" signature="852:1177" ph="..." />
-                <marker date="1488013403000" expanded="true" signature="1257:3342" ph="..." />
-                <marker date="1488013403000" expanded="true" signature="1279:3327" ph="..." />
-                <marker date="1488013403000" expanded="true" signature="1353:3304" ph="..." />
-                <marker date="1488013403000" expanded="true" signature="1415:1642" ph="..." />
-                <marker date="1488013403000" expanded="true" signature="1448:1617" ph="..." />
-                <marker date="1488013403000" expanded="true" signature="1683:1911" ph="..." />
-                <marker date="1488013403000" expanded="true" signature="1714:1886" ph="..." />
-                <marker date="1488013403000" expanded="true" signature="1952:2189" ph="..." />
-                <marker date="1488013403000" expanded="true" signature="1985:2164" ph="..." />
-                <marker date="1488013403000" expanded="true" signature="2230:2463" ph="..." />
-                <marker date="1488013403000" expanded="true" signature="2263:2438" ph="..." />
-                <marker date="1488013403000" expanded="true" signature="2504:2738" ph="..." />
-                <marker date="1488013403000" expanded="true" signature="2537:2713" ph="..." />
-                <marker date="1488013403000" expanded="true" signature="2779:3007" ph="..." />
-                <marker date="1488013403000" expanded="true" signature="2812:2982" ph="..." />
-                <marker date="1488013403000" expanded="true" signature="3048:3281" ph="..." />
-                <marker date="1488013403000" expanded="true" signature="3081:3256" ph="..." />
-                <marker date="1488013403000" expanded="true" signature="3367:3666" ph="..." />
-                <marker date="1488013403000" expanded="true" signature="3434:3652" ph="..." />
-                <marker date="1488013403000" expanded="true" signature="3477:3637" ph="..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -188,7 +164,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wp-content/themes/dev" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
@@ -250,17 +226,18 @@
       <workItem from="1487790661176" duration="500000" />
       <workItem from="1488012470890" duration="186000" />
       <workItem from="1488012695212" duration="683000" />
+      <workItem from="1489079985806" duration="43000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1369000" />
+    <option name="totallyTimeSpent" value="1412000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="828" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25679544" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -298,6 +275,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/dev/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -309,7 +294,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -317,36 +301,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-          <folding>
-            <marker date="1488013403000" expanded="true" signature="283:3685" ph="..." />
-            <marker date="1488013403000" expanded="true" signature="308:3677" ph="..." />
-            <marker date="1488013403000" expanded="true" signature="321:797" ph="..." />
-            <marker date="1488013403000" expanded="true" signature="363:467" ph="..." />
-            <marker date="1488013403000" expanded="true" signature="512:783" ph="..." />
-            <marker date="1488013403000" expanded="true" signature="808:3354" ph="..." />
-            <marker date="1488013403000" expanded="true" signature="822:1192" ph="..." />
-            <marker date="1488013403000" expanded="true" signature="852:1177" ph="..." />
-            <marker date="1488013403000" expanded="true" signature="1257:3342" ph="..." />
-            <marker date="1488013403000" expanded="true" signature="1279:3327" ph="..." />
-            <marker date="1488013403000" expanded="true" signature="1353:3304" ph="..." />
-            <marker date="1488013403000" expanded="true" signature="1415:1642" ph="..." />
-            <marker date="1488013403000" expanded="true" signature="1448:1617" ph="..." />
-            <marker date="1488013403000" expanded="true" signature="1683:1911" ph="..." />
-            <marker date="1488013403000" expanded="true" signature="1714:1886" ph="..." />
-            <marker date="1488013403000" expanded="true" signature="1952:2189" ph="..." />
-            <marker date="1488013403000" expanded="true" signature="1985:2164" ph="..." />
-            <marker date="1488013403000" expanded="true" signature="2230:2463" ph="..." />
-            <marker date="1488013403000" expanded="true" signature="2263:2438" ph="..." />
-            <marker date="1488013403000" expanded="true" signature="2504:2738" ph="..." />
-            <marker date="1488013403000" expanded="true" signature="2537:2713" ph="..." />
-            <marker date="1488013403000" expanded="true" signature="2779:3007" ph="..." />
-            <marker date="1488013403000" expanded="true" signature="2812:2982" ph="..." />
-            <marker date="1488013403000" expanded="true" signature="3048:3281" ph="..." />
-            <marker date="1488013403000" expanded="true" signature="3081:3256" ph="..." />
-            <marker date="1488013403000" expanded="true" signature="3367:3666" ph="..." />
-            <marker date="1488013403000" expanded="true" signature="3434:3652" ph="..." />
-            <marker date="1488013403000" expanded="true" signature="3477:3637" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>

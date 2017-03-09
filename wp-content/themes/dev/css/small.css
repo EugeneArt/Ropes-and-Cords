@@ -10,6 +10,14 @@
         top: 120px;
         left: 20px;
     }
+    .header-title h1{
+        font-size: 3.3rem;
+    }
+    .header-title span {
+        font-family: Redis TYGRA;
+        font-size: 2rem;
+        color: #c5904d;
+    }
     .header-contacts {
         display: block;
         float: right;
@@ -53,5 +61,50 @@
         color: #c5904d;
         border-bottom: 1px dotted;
     }
+
+    /*****FOOTER*****/
+
+    .footer-contacts {
+        float: right;
+        font-size: 2rem;
+    }
+    /*****ABOUT*****/
+
+    .about img{
+        width: 400px;
+        height: 200px;
+
+    }
+    /*****CLAIM*****/
+    .claim-form {
+        margin: 15px 0 0 30px;
+    }
+    input[type="text"], input[type="email"],input[type="tel"] {
+        width: 60%;
+    }
+    textarea {
+        width: 90%;
+    }
+    /*****ROPE-ITEM*****/
+    .rope-item {
+        font-size: 1.5rem;
+    }
+    .rope-item img{
+        width: 350px;
+        height: 300px;
+    }
+    .rope-item-title{
+        font-size: 1.8rem;
+    }
+    .rope-item table {
+        margin: 30px 0;
+    }
+    .rope-item th,td {
+        padding: 15px;
+    }
+    .rope-item th {
+        background: #c5904d;
+    }
+
 
 }

@@ -1,8 +1,5 @@
 <?php get_header(); ?>
     <main>
-        <nav>
-            <?php wp_nav_menu(array('theme_location'=> 'menu')); ?>
-        </nav>
         <div class="rope"></div>
         <div class="container">
             <section>

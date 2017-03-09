@@ -5,12 +5,42 @@
         background-size: 100%;
         background-position: 100% -120px;
     }
-
+    .header-title h1{
+        font-size: 4rem;
+    }
+    .header-title span {
+        font-size: 2.2rem;
+    }
     .header-contacts {
-        font-size: 1.2rem;
+        font-size: 1.4rem;
+        top: 65px;
+        right: 5px;
     }
     .responsive-menu{
         top: 210px;
         font-size: 1.8rem;
+    }
+    h2{
+        font-size: 2.8rem;
+        font-weight: 700;
+        margin: 25px 40px;
+    }
+    /*****FOOTER*****/
+
+    .footer-contacts {
+        float: right;
+        font-size: 2.2rem;
+    }
+    /*****CONTACTS*****/
+    .contact {
+        margin: 40px;
+        font-size: 1.5rem;
+    }
+    /*****ABOUT*****/
+
+    .about img{
+        width: 800px;
+        height: 400px;
+
     }
 }

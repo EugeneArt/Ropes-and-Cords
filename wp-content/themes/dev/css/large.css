@@ -1,0 +1,29 @@
+@media (min-width: 1200px) {
+    header {
+        height: 240px;
+        background: url(../../dev/images/header.png) no-repeat;
+        background-size: 100%;
+        background-position: 100% -150px;
+    }
+    .header-title h1{
+        font-size: 4.2rem;
+    }
+    .header-title span {
+        font-size: 2.2rem;
+    }
+    .header-contacts {
+        font-size: 1.6rem;
+        top: 65px;
+        right: 5px;
+    }
+    .responsive-menu{
+        top: 218px;
+        font-size: 2.2rem;
+    }
+    /*****FOOTER*****/
+
+    .footer-contacts {
+        float: right;
+        font-size: 2.5rem;
+    }
+}
